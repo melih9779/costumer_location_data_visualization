@@ -6,6 +6,10 @@
 - Farklı zamanlar ile alınan konumların karşılaştırılması.
 - Farklı zamanlarda konum karşılaştırmaları ile baz alınan mesafe çevresinde Ağızdan ağıza pazarlama tahminleri
 
+### Gerekli Python Paketleri
+* pandas 
+* geoplotlib
+
 Yazıda örnek data kullanabilmek için IBB Açık Veri Portalından aldığım [Akaryakıt İstasyonları Veri Seti](https://data.ibb.gov.tr/dataset/akaryakit-istasyonlari/resource/5625860c-d79a-446f-898e-2aa2b9099bc8 "Akaryakıt İstasyonları Veri Seti")'ni kullandım.
 
 <img width="779" alt="code_preview" src="https://user-images.githubusercontent.com/9290445/166224084-dfdd5b45-7365-41c6-8fe4-2d5f3ebc9b3c.png">
